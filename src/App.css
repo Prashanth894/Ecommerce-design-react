@@ -1,0 +1,93 @@
+Nav{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.nav-link{
+  margin: 0px 30px;
+}
+#svg{
+  margin-left:320px;
+  margin-top: 3px;
+}
+#img{
+  margin-left: 30px;
+}
+#svg1{
+  margin-top: 3px;
+  margin-left: 20px;
+}
+.image-container img {
+  height: 70%;
+  width: 70%;
+  transition: transform 1s;
+  border-radius: 20px;
+}
+.myProducts-gallery img{
+  width: 70%;
+  border-radius: 10px;
+}
+.myProducts-gallery col{
+  width: 50%;
+}
+.image-container img {
+  
+  transition: transform 1s;
+  border-radius: 20px;
+}
+.image-container img:hover{
+  transform: scale(1.05);
+  cursor: zoom-in;
+}
+.myProducts-gallery img{
+ 
+  cursor: pointer;
+  
+  opacity: .5;
+}
+.myProducts-gallery{
+ width: 80%;
+}
+.myProducts-gallery img:hover {
+  opacity: 1;
+}
+.content h5{
+    color: #BF5B05;
+    font-weight: bold;
+    font-family: 'Yaldevi', sans-serif;
+    /* font-size-adjust:initial; */
+}
+.content h2{
+    font-weight: bold;
+    font-family: 'Yaldevi', sans-serif;
+}
+.content p{
+    font-weight: lighter;
+    color: grey;
+    font-family: 'Yaldevi', sans-serif;
+}
+.content h3{
+    font-weight: bold;
+    
+}
+.button{
+  margin-left: 10px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #D26927;
+  border-radius: 5px;
+  border: none;
+}
+.btn-light{
+  color: #BF5B05;
+  font-weight: bold;
+}
+#bg-span{
+  background-color: antiquewhite;
+  font-weight: bold;
+  font-size:medium;
+  color:#BF5B05 ;
+  padding: 5px;
+ 
+}
+
